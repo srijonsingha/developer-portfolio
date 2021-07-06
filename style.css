@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    color: blue;
+}
+.clr-chnge{
+    color: gold;
+}
+span{
+    color: red;
+}
