@@ -16,6 +16,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 20%;
 }
 .div-styles{
     width: 50%;
@@ -34,5 +35,9 @@ section{
 }
 .high-banner{
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.boro-sopno{
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
 }
